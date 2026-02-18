@@ -1,7 +1,7 @@
 import os
 
 # 🔥 Set your Gemini API key here
-os.environ["GOOGLE_API_KEY"] = "AIzaSyB_uasQ18Jbvx_0a2MGaewR5xzdHHU1Q90"
+os.environ["GOOGLE_API_KEY"] = "itsmysecretkey"
 
 import streamlit as st
 from langchain_google_genai import ChatGoogleGenerativeAI
